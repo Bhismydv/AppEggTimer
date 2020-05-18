@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "585629270380",
+    "firebase_url": "https://geolocation-3147e.firebaseio.com",
+    "project_id": "geolocation-3147e",
+    "storage_bucket": "geolocation-3147e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585629270380:android:f6810ee62a0a36f8f17349",
+        "android_client_info": {
+          "package_name": "com.example.dell.geolocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585629270380-dfe6v1sjpgm4i83ardinct0a1e57atlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.geolocation",
+            "certificate_hash": "721e7c80e9a0adfd61e3f313aab952c3430f302e"
+          }
+        },
+        {
+          "client_id": "585629270380-fbh7djkeonn6b06qml44pkrl8p1o43cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8d7vz7Hu96xFz_sk8QypmWGl667rSops"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585629270380-fbh7djkeonn6b06qml44pkrl8p1o43cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
